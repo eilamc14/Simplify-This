@@ -9,6 +9,28 @@ It compares **fine-tuning** vs **prompt-based** approaches and provides a full e
 
 ## Repository Structure
 
+```
+Simplify-This/
+├─ datasets/
+│  ├─ WikiLarge/
+│  ├─ wikilarge_dataset/
+│  └─ wikilarge_dataset_clean/
+├─ models/
+│  ├─ <model_name>/        # checkpoints (current run)
+│  └─ trained/
+│     └─ <model_name>/     # final model for eval
+├─ results/
+│  ├─ <dataset>_<subset>/
+│  │  ├─ <model_name>.csv                    # final metrics
+│  │  └─ samples/
+│  │     └─ <model_name>.txt                 # 3 samples per prompt
+│  └─ results_checklist.md
+├─ dataset_cleaning.ipynb
+├─ text_simplification_finetune.ipynb
+├─ prompt_evaluation.ipynb
+└─ Eval_full.ipynb
+```
+
 - `datasets/` - raw/cleaned datasets for training & evaluation. `dataset_cleaning.ipynb` creates `wikilarge_dataset` and `wikilarge_dataset_clean` from `WikiLarge` folder - a copy of [WikiLarge](https://github.com/XingxingZhang/dress)  
 - `models/`  
   - `<model_name.replace("/", "_")>/` - runtime checkpoints for the *current* run.  
