@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : Simplify:.. Simplifying: His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.:implify. Next Work, Saturday.::.... Saturday.
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east.. the trickster. Simplify::: The, the, attached it
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : , on 12 January 888.. died six weeks later, on 13 January 88.. There he died 6 weeks later.........., on 6 January 888. 
+------
+
+Prompt 1
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : Simplify the following sentence so it is easy to understand while keeping the original meaning. His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.. Saturday Saturday.::::.::
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east. The trickster the spun the ball and spun it again. The trickster character spun the black cord..:
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : ... There he died six weeks later, on 13 January 888. Simplify the following sentence so it is easy to understand while keeping the original meaning..::.....:: S:
+------
+
+Prompt 2
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : The economic downturn had a profound effect on small businesses across the region.: His next work, Saturday, follows a particularly eventful day in the life of a successful neurosurgeon.: Saturday follows an especially successful day of his life.: Saturday is a special day in
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : to the east.The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the west.: The trickster character pulled on the cord with all his strength. to the south and west.
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : , on 12 January 888. Complex: He died six weeks later, on 13 January 88.: The committee reached a unanimous decision after extensive deliberations.: The group agreed after talking for a long time. Simplify the sentence. Use common words; keep the meaning
+------
+
+Prompt 3
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : . His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon...... Make a list of words/phrases that make this sentence hard to read. Then rewrite the sentence in simpler language without
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east. The trickster was a trickster. First list the words/phrases that make this sentence hard to read. Then rewrite
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : . He died six weeks later, on 13 January 888... . . There he died three weeks later on 13 February 888 . The sentence is hard to read. First list the words/phrases that make this sentence hard to understand. Then rewrite
+------
+
+Prompt 4
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : . Rewrite the sentence using common, high-frequency words suitable for a B1 (intermediate) non-native reader. Keep all original information:.. Rewrite: Saturday follows an especially eventful day in the life of a successful neurosurgeon..
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : the tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east. Rewrite the sentence: The trickster the ball.....:. (
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : . There he died six weeks later, on 13 January 888. Rewrite the sentence using common, high-frequency words suitable for a B1 (intermediate) non-native reader.. He was buried there......
+------
+
+Prompt 5
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : . His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.. Rewrite the sentence using words with high familiarity and early age-acquisition. the original meaning. the sentence:. the meaning:: the
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east. Rewrite the sentence:. the to the west.. using words with high familiarity and age-acquisition.
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : . There he died six weeks later, on 13 January 888.. the sentence using words of high familiarity and age-acquisition (avoid abstract or rare terms). the sentence: using familiar words and phrases. the original meaning: the meaning:: using
+------
+
+Prompt 6
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : . Keep the same meaning: His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon... Rewrite the sentence in simpler words and split long or embedded clauses into shorter sentences....::
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east.. Rewrite the sentence: the snatched it from the ball... Keep the same meaning
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : . There he died six weeks later, on 13 January 888..... the sentence: the same meaning:.: Rewrite the sentence. Rewrite it in simpler words and split long or embedded clauses into shorter sentences.. or
+------
+
+Prompt 7
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : while keeping meaning and grammar intact. Apply common simplification transformations (e.g., replace complex words, reorder for clarity, split long clauses) while keeping grammar and meaning:. Reorder complex words to make them easier to read and understand.. Reorder for
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : the tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east.. .. . ... . .... reorder for clarity, split long clauses
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : . There he died six weeks later, on 13 January 888. He was buried there, on 14 January 88. He was the son of a nobleman. Apply common simplification transformations to simplify sentences There. Replace complex words with simple ones Replace complex
+------
+
+Prompt 8
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : Flesch Reading Ease score  80 ( grade 6), without losing information:.......  :  70 ( Grade 6).    grade 5  (
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east. The trickster tarantula, the black ball. the  80 ( grade 6).: without losing information:
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED :  80 ( grade 6), without losing information: There he died six weeks later, on 13 January 888. Rewrite the sentence so that it reaches a Flesch Reading Ease score  70 ( Grade 6).  () (
+------
+
+Prompt 9
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : . His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.. Rewrite the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if necessary. -
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east.. and, with all his strength, he escaped. swung a white cord. The trickster
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : . He died six weeks later, on 13 January 888. Rewrite the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if necessary.....:.: the meaning the same
+------
+
+Prompt 10
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon... Simplify the sentence for readability, but preserve ALL factual details exactly:.... ..:.
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : , the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east. The tarantula, the trickster character, spins a Black Cord: the The trickster Character spun A black cord: The
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : : There he died six weeks later, on 13 January 888..... but keep ALL factual details exactly:: but preserve ALL facts exactly: for readability, but preserve EVERY factual detail exactly:: but not for accuracy:
+------
+
+Fine-Tune
+SRC  : His next work, Saturday, follows an especially eventful day in the life of a successful neurosurgeon.
+PRED : His next work, Saturday, follows an eventful day in the life of a successful neurosurgeon.
+------
+SRC  : The tarantula, the trickster character, spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+PRED : The tarantula spun a black cord and, attaching it to the ball, crawled away fast to the east, pulling on the cord with all his strength.
+------
+SRC  : There he died six weeks later, on 13 January 888.
+PRED : He died six weeks later, on 13 January 888.
+------

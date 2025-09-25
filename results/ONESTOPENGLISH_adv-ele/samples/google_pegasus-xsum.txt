@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : BBC News takes a look at some of the challenges faced by gay and lesbian people in the UK.
+------
+SRC  : We as a society want to defend them.
+PRED : In our series of letters from African journalists, filmmaker and columnist Farai Sevenzo looks at some of the most contentious issues of the day.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : South Africa's housing minister, Mark Boer, has said that he wants to change the name of the country's so-called "scum villages" to "slum houses".
+------
+
+Prompt 1
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : We want everyone to be who they are whether they are gay or lesbian and are then victims of harassment.
+------
+SRC  : We as a society want to defend them.
+PRED : We as a society want to defend them.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : The BBC News website has come up with an easy-to-understand explanation of the meaning of the word "scum".
+------
+
+Prompt 2
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : Use the word "complex" in quotation marks to indicate the complexity of the sentence.
+------
+SRC  : We as a society want to defend them.
+PRED : The BBC News website has compiled a list of some of the most common and complex sentences from the past week.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : Use the word "complex" in quotation marks to indicate the complexity of the sentence.
+------
+
+Prompt 3
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : How do you make a sentence easier to read?
+------
+SRC  : We as a society want to defend them.
+PRED : We as a society want to defend them.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : In our series of letters from African journalists, film-maker and columnist Farai Sevenzo considers the meaning of the word "scum".
+------
+
+Prompt 4
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : Do you agree or disagree with the following statement?
+------
+SRC  : We as a society want to defend them.
+PRED : Do you agree or disagree with the following statement?
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : "Scum houses", "villages" and "scum" are words that can be used interchangeably, but should not be used together.
+------
+
+Prompt 5
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : We want everyone to be who he or she is whether they are gay or lesbian or stand up to violence and are then victims of harassment.
+------
+SRC  : We as a society want to defend them.
+PRED : We as a society want to defend them.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : "Scum villages", "scum houses" and "slum houses" are words you should never use.
+------
+
+Prompt 6
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : What do you think the government should do to tackle discrimination against gay and lesbian people?
+------
+SRC  : We as a society want to defend them.
+PRED : What do you think are the most common mistakes made by journalists when writing news stories?
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : What do you think should be done to make the word "scum" more accurate?
+------
+
+Prompt 7
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : In this course, you will learn how to write a letter to a friend or family member in a way that is easy to understand.
+------
+SRC  : We as a society want to defend them.
+PRED : In this course, you will learn how to write sentences that are easy to read and understand.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : How do you improve the English language?
+------
+
+Prompt 8
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : We want everyone to be who he or she is whether they are gay or lesbian and are then victims of harassment.
+------
+SRC  : We as a society want to defend them.
+PRED : In our series of letters from African journalists, film-maker and columnist Ahmed Rashid looks at some of the most controversial statements made by African journalists in recent years.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : "Scum houses" is a bit misleading, says Boer, because "scum villages" are much more accurate.
+------
+
+Prompt 9
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : We want everyone to be who he and she is whether they are gay or lesbian and are then victims of harassment.
+------
+SRC  : We as a society want to defend them.
+PRED : We as a society want to defend them.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : If you have a question about the meaning of the word "scum" in Afrikaans, or would like to share your experience with other learners, please use the form at the bottom of this page.
+------
+
+Prompt 10
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : We want to make it easier for you to tell us what you think about same-sex marriage.
+------
+SRC  : We as a society want to defend them.
+PRED : With so much emphasis on "facts" these days, it's easy to get carried away with "facts".
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : In our series of letters from African journalists, film-maker and columnist Farai Sevenzo looks at some of the most common phrases used in the media.
+------
+
+Fine-Tune
+SRC  : We want everyone to be who he and she is  whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+PRED : We want everyone to be who he and she is whether they are gay and lesbian or stand up to violence and are then victims of harassment.
+------
+SRC  : We as a society want to defend them.
+PRED : We as a society want to defend them.
+------
+SRC  : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+PRED : It would be more accurate to call them scum houses than scum villages, says Boer, because we dont want to put more than one of these families in the same area.
+------

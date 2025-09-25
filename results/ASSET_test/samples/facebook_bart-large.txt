@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 1
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 2
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time.Simplify the sentence. Use common words; keep the meaning. Use only the simplified sentence. For example, the following sentence is a simplified version of the following:Complex.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : Complex: However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.The group agreed after talking for a long time.Simplify the sentence. Use common words;
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: Many species had vanished by the end of the nineteenth century, with European settlement.The old book was kept in a special room to stop it from getting damaged. The old manuscript was preserved
+------
+
+Prompt 3
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-With
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 4
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 5
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 6
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 7
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 8
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-With
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 9
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Prompt 10
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had vanished by the end of the nineteenth century, with European settlement.
+------
+
+Fine-Tune
+SRC  : Graham attended Wheaton College from 1939 to 1943, when he graduated with a BA in anthropology.
+PRED : Graham went to Wheaton College from 1939 to 1943 .
+------
+SRC  : However, the BZÖ differs a bit in comparison to the Freedom Party, as is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal.
+PRED : The BZÖ is in favor of a referendum about the Lisbon Treaty but against an EU-Withdrawal .
+------
+SRC  : Many species had vanished by the end of the nineteenth century, with European settlement.
+PRED : Many species had disappeared by the end of the nineteenth century .
+------

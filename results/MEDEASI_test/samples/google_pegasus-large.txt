@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Prompt 1
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Prompt 2
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+
+Prompt 3
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: Photosensitivity occurs in some patients.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Prompt 4
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : Keep all original information: However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : Keep all original information: The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Prompt 5
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : Preserve the original meaning: However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : Preserve the original meaning: The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Prompt 6
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : Keep the same meaning: However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : Keep the same meaning: The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Prompt 7
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g).
+------
+
+Prompt 8
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6), without losing information: However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6), without losing information: The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Prompt 9
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : Keep the meaning the same: However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : Keep the meaning the same: The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Prompt 10
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------
+
+Fine-Tune
+SRC  : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+PRED : However, if the neonate 's breathing appears obstructed, suctioning is done with an endotracheal tube attached to a meconium aspirator.
+------
+SRC  : Photosensitivity occurs in some patients. Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, some annular, in light -exposed areas.
+PRED : Lupus erythematosus tumidus is characterized by pink to violaceous urticarial nonscarring plaques and/or nodules, in light -exposed areas.
+------
+SRC  : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+PRED : The driving force for these reactions is often the entropic benefit of gaseous evolution ( e.g.
+------

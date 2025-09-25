@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : Recurrence rates after surgical excision are about 5 to 15 per cent.
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : Allergic conjunctivitis is a common complication of eye surgery and can be life-threatening.
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : What is yellow fever?
+------
+
+Prompt 1
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : Recurrence rates after surgical excision are about 5 to 15 %.
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : The word "conjunctival" is often used in the same way as "foreign body sensation" or "photophobia".
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : The word " terminal" is often confused with "end-of-life", so I've put together a glossary to help.
+------
+
+Prompt 2
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : The BBC News website has compiled a list of some of the most common and complex sentences from the past year.
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : How do you write a complex sentence?
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : Use the word "complex" instead of "simple" in your sentences to make them easier to understand.
+------
+
+Prompt 3
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : Recurrence rates after surgical excision are about 5 to 15 %
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : How do you make a sentence easier to read?
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : How do you make a sentence easier to read?
+------
+
+Prompt 4
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : This sentence has been adapted from the BBC News website.
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : Write a sentence that describes the symptoms of a common eye infection.
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : This sentence has been adapted from the BBC News website.
+------
+
+Prompt 5
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : Rewrite the sentence using words with high familiarity and early age-of-acquisition (avoid abstract or rare terms).
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : Use the word "conjunctival" in the sentence to describe an eye infection.
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : This sentence has been changed to reflect that yellow fever is a terminal illness.
+------
+
+Prompt 6
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : How do you summarise a sentence?
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : How to write a letter to the editor:
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : Do not use the word " terminal" in quotation marks.
+------
+
+Prompt 7
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : In this course, you will learn how to write a letter to a friend or relative who has had surgery.
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : In this course, you will learn how to write a letter that is easy to read and easy to understand.
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : In this course, you will learn how to write sentences that are easy to read and easy to understand.
+------
+
+Prompt 8
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : How much do you think it will cost to have your breast removed?
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : This sentence has been changed to make it easier to read.
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : In the most severe form of yellow fever, delirium, intractable hiccups, seizures, and multiple organ failure may occur terminally.
+------
+
+Prompt 9
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : Rewrite the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if needed.
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : If you're struggling to write a sentence in Korean, try these tips.
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : This sentence has been modified to make it easier for ESL learners to understand.
+------
+
+Prompt 10
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : Simplify the sentence for readability, but preserve ALL factual details (entities, quantities, relations) exactly:
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : This sentence should not be more than two sentences long.
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : This sentence is too long.
+------
+
+Fine-Tune
+SRC  : Recurrence rates after surgical excision are about 5 to 15 %.
+PRED : Recurrence rates after surgical excision are about 5 to 15 %.
+------
+SRC  : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+PRED : Conjunctival redness, eye ache, foreign body sensation, photophobia, and lacrimation may be minimal initially.
+------
+SRC  : In the most severe form (called malignant yellow fever), delirium, intractable hiccups, seizures, coma, and multiple organ failure may occur terminally.
+PRED : In the most severe form (called malignant yellow fever delirium, intractable hiccups, seizures, coma, and multiple organ failure) may occur terminally.
+------

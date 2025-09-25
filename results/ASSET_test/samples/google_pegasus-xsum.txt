@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency (ESA) and the US space agency (Nasa) have launched a joint mission to send a probe to Saturn.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : Alessandro "Sandro" Mazzola is an Italian former football player.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : Nasa's Jet Propulsion Laboratory (JPL) in California, USA, has released new images of two craters on the surface of Mars that were created when the Red Planet collided with the Moon in 1976.
+------
+
+Prompt 1
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency (ESA) and the US space agency (Nasa) have launched a joint mission to send a probe to Saturn.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : To understand the meaning of the word " Mazzola", you will need to read the following sentence:
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : Nasa's Jet Propulsion Laboratory in California, USA, has released the results of a new study which shows that the two largest craters on the surface of Mars were not created by a collision between Mars and Jupiter as previously thought.
+------
+
+Prompt 2
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : To learn more about Complex, please read our guide to complex English.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : The BBC News website has compiled a list of some of the most common words and phrases used in the media.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : To help you understand the meaning of a sentence, we've put together a list of some of the most common expressions:
+------
+
+Prompt 3
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency's (ESA) Huygens probe has sent back the first ever images of Saturn's rings.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : How difficult is it to read this sentence?
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : This sentence is difficult to read.
+------
+
+Prompt 4
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency's (ESA) Huygens probe has made history by becoming the first spacecraft to land on a planet outside our Solar System.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : This sentence has been adapted from the BBC's translation of Alessandro Mazzola's autobiography.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : Nasa's Jet Propulsion Laboratory in California, USA, has released new images of two craters on the surface of the dwarf planet Ceres.
+------
+
+Prompt 5
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency's (ESA) Huygens probe has made history by becoming the first spacecraft to land on a planet outside our Solar System.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : Use the form below to find the word you are looking for.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : The craters on the surface of Mars are the result of a collision between two different types of rock.
+------
+
+Prompt 6
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency's (ESA) Huygens probe has made history by becoming the first spacecraft to land on a planet outside our Solar System.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : Do you understand the meaning of the sentence?
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : Do you understand the meaning of this sentence?
+------
+
+Prompt 7
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency (ESA) and the United States space agency (Nasa) have launched a joint mission to send a spacecraft to Saturn.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : The Italian word simplification is used in English as well as in Italian.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : The craters on the surface of Mars are the result of collisions between two different types of rock.
+------
+
+Prompt 8
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency (ESA) and the US space agency (Nasa) have launched a joint mission to explore Saturn.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : Alessandro "Sandro" Mazzola (born 8 November 1942) is an Italian former footballer.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : The largest crater on the surface of Mars was formed when the two largest moons of Jupiter collided, scientists have confirmed.
+------
+
+Prompt 9
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency's (ESA) Huygens probe has made history by becoming the first spacecraft ever to land on a planet other than Earth.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : This sentence has been modified to make it easier to understand.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : Nasa's New Horizons probe has returned to Earth with the discovery of two new craters on the surface of Pluto.
+------
+
+Prompt 10
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The European Space Agency's (ESA) Huygens probe has made history by becoming the first spacecraft ever to land on a planet other than Earth.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : To make it easier for you to read this article, we've made it easier by reducing the number of words in the sentence.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : Nasa's Jet Propulsion Laboratory (JPL) in California, USA, has released the results of a new study showing that the two largest craters on the surface of Mars were not created by a collision between Mars and Jupiter.
+------
+
+Fine-Tune
+SRC  : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe, named after the Dutch astronomer, mathematician and physicist Christiaan Huygens.
+PRED : The spacecraft consists of two main elements: the NASA Cassini orbiter, named after the Italian-French astronomer Giovanni Domenico Cassini, and the ESA Huygens probe,named after the Dutch astronomer Christiaan Huygens.
+------
+SRC  : Alessandro ("Sandro") Mazzola (born 8 November 1942) is an Italian former football player.
+PRED : Alessandro Mazzola ( born 8 November 1942 ) is a former Italian football player.
+------
+SRC  : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+PRED : It was originally thought that the debris thrown up by the collision filled in the smaller craters.
+------

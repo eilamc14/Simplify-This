@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10% to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 1
+SRC  : However, many patients are never oliguric.
+PRED : However, many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 2
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 3
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 4
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 5
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 6
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 7
+SRC  : However, many patients are never oliguric.
+PRED : However, many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 8
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 9
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Prompt 10
+SRC  : However, many patients are never oliguric.
+PRED : However, many patients are never oliguric.
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10 to 15% of patients with alcoholic cirrhosis.
+------
+
+Fine-Tune
+SRC  : However, many patients are never oliguric.
+PRED : Many patients are never oliguric .
+------
+SRC  : During the acute phase, adult worms in the intestine may cause colicky epigastric pain, anorexia, flatulence, diarrhea, and weight loss.
+PRED : Adult worms in the intestine may cause colicky epigastric pain , anorexia , flatulence , diarrhea and weight loss .
+------
+SRC  : Hepatocellular carcinoma develops in 10 to 15 % of patients with alcoholic cirrhosis.
+PRED : Hepatocellular carcinoma develops in 10-15 % of patients with alcoholic cirrhosis .
+------

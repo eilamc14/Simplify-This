@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : Sudanese military and the Janjaweed
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 1
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims must visit at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 2
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims must visit at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 3
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a militia group from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims must visit at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 4
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 5
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a militia group from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 6
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 7
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city, which Muslims are required to visit at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 8
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city. Muslims are required to visit Mecca at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 9
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city. Muslims are required to visit Mecca at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Prompt 10
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims must visit at least once in their lifetime.
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+------
+
+Fine-Tune
+SRC  : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed, a Sudanese militia group recruited mostly from the Afro-Arab Abbala tribes of the northern Rizeigat region in Sudan.
+PRED : One side of the armed conflicts is composed mainly of the Sudanese military and the Janjaweed .
+------
+SRC  : Jeddah is the principal gateway to Mecca, Islam's holiest city, which able-bodied Muslims are required to visit at least once in their lifetime.
+PRED : Jeddah is the main gateway to Mecca , Islam's holiest city .
+------
+SRC  : The Great Dark Spot is thought to represent a hole in the methane cloud deck of Neptune.
+PRED : The Great Dark Spot is thought to be a hole in the methane cloud deck of Neptune .
+------

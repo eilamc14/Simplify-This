@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is organised as an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : it is situated at the coast of the Baltic Sea
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named 1982 "Sportsman of the Year" by Sports Illustrated
+------
+
+Prompt 1
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is organised as an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named "Sportsman of the Year" by Sports Illustrated in 1982.
+------
+
+Prompt 2
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is organised as an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named "Sportsman of the Year" by Sports Illustrated.
+------
+
+Prompt 3
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named by Sports Illustrated in 1982.
+------
+
+Prompt 4
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named "Sportsman of the Year" by Sports Illustrated in 1982.
+------
+
+Prompt 5
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is organised as an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named "Sportsman of the Year" by Sports Illustrated in 1982.
+------
+
+Prompt 6
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named "Sportsman of the Year" by Sports Illustrated in 1982.
+------
+
+Prompt 7
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is organised as an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+------
+
+Prompt 8
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is organised as an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named "Sportsman of the Year" by Sports Illustrated in 1982.
+------
+
+Prompt 9
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is organised as an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named "Sportsman of the Year" by Sports Illustrated in 1982.
+------
+
+Prompt 10
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is organised as an independent, private foundation.
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+------
+
+Fine-Tune
+SRC  : Today NRC is organised as an independent, private foundation.
+PRED : Today NRC is a private foundation .
+------
+SRC  : It is situated at the coast of the Baltic Sea, where it encloses the city of Stralsund.
+PRED : It is located at the coast of the Baltic Sea .
+------
+SRC  : He was also named 1982 "Sportsman of the Year" by Sports Illustrated.
+PRED : He was also named 1982 Sportsman of the Year by Sports Illustrated .
+------

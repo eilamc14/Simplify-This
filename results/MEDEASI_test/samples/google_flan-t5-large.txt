@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should focus on developing healthy eating and exercise habits.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender. Massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Prompt 1
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should focus on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present
+------
+
+Prompt 2
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Prompt 3
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Prompt 4
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should focus on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender. Massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Prompt 5
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should focus on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Prompt 6
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Prompt 7
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Prompt 8
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Prompt 9
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present.
+------
+
+Prompt 10
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete empty
+------
+
+Fine-Tune
+SRC  : Intervention for obese adolescents should be focused on developing healthy eating and exercise habits rather than on losing a specific amount of weight.
+PRED : Intervention for obese adolescents should focus on developing healthy eating and exercise habits rather than on losing a specific amount of weight .
+------
+SRC  : The liver may be enlarged, hard, or tender; massive hepatomegaly with easily palpable nodules signifies advanced disease.
+PRED : The liver may be enlarged, hard, or tender .
+------
+SRC  : Frequency, urgency, and nocturia are due to incomplete emptying and rapid refilling of the bladder. Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present. Sensations of incomplete emptying, terminal dribbling, overflow incontinence, or complete urinary retention may ensue.
+PRED : Decreased size and force of the urinary stream cause hesitancy and intermittency. Pain and dysuria are usually not present.
+------

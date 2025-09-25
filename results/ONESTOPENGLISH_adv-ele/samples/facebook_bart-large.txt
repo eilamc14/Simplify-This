@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 1
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 2
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : Complex: They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.The old book was kept in a special room to stop it from getting damaged.Simplify the sentence. Use common words; keep the meaning.Com
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : Complex: She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.The group agreed after talking for a long time.Simplify the sentence. Use common words; keep
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : Complex: The ancient manuscript was preserved in a climate-controlled archive to prevent deterioration.The old book was kept in a special room to stop it from getting damaged.Simplify the sentence. Use common words; keep the meaning. Use only the simplified sentence. For example, the following sentence
+------
+
+Prompt 3
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 4
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 5
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 6
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 7
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 8
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 9
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Prompt 10
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this largely mixed-raced nation.
+------
+
+Fine-Tune
+SRC  : They are taken care of so the whole situation is not going to repeat at the new house they are in, says Boer.
+PRED : They are taken care of so the whole situation is not going to repeat at the new house they are in .
+------
+SRC  : She has now exploded into the public consciousness with an album and a huge hit single, Show das Poderosas, which topped the charts and attracted 52 million YouTube views.
+PRED : She has now exploded into the public consciousness with an album and a huge hit single , Show das Poderosas .
+------
+SRC  : This is a sensitive topic in this largely mixed-raced nation.
+PRED : This is a sensitive topic in this nation .
+------

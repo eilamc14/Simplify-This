@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : .:. Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve the public interest, the Brazilian Ministry of Science and Technology said...::.
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : :::: Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).:::: were by and
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : :: Simplify:: Simplifies: Patagonia is a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.:::: that that the US outdoor clothing retailer, Pa
+------
+
+Prompt 1
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : does not serve the public interest. Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names is not in our view, the Brazilian Ministry of Science and Technology said.
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : and). Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela). Simplify the following sentence so it is easy to understand while the original meaning is clear: Brazil said
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : Patagonia. Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer,.. Argentine government has lodged a statement of its displeasure that..:. that: the original
+------
+
+Prompt 2
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : does not serve the public interest, the Brazilian Ministry of Science and Technology said. Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names serves no public interest.. Complex: Use common words; keep the meaning.
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : , Peru, Bolivia, Ecuador, Guyana, Suriname and Venezuela).: Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty., Brazil said last month it was endorsed by other countries. Complex: Complex:. Complex:
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : . Complex: Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.The domain name is known as Patag
+------
+
+Prompt 3
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : . Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve the public interest, the Brazilian Ministry of Science and Technology said... List the words/phrases that make this sentence hard to read.
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : .. Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).................
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : . Patagonia.com is a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament. Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer is claiming the domain name. .com.au. Argentina
+------
+
+Prompt 4
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : . Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve the public interest, the Brazilian Ministry of Science and Technology said. Rewrite the sentence using common, high-frequency words suitable for (intermedi
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : .. Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela). Rewrite the sentence using common, high-frequency words suitable for a B1 (intermediate
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : . Patagonia.com is a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament. Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer is claiming the domain name. Rewrite the sentence using common,
+------
+
+Prompt 5
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : does not serve the public interest. Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names is not in our view, the Brazilian Ministry of Science and Technology said. Rewrite the sentence using words with high familiarity and early age
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : Ecuador, Guyana, Suriname and Venezuela).. Rewrite the sentence using words with high familiarity and early age-acquisition:... the sentence: the original meaning: the sentence with words with low familiarity:: Avoid abstract or rare terms.
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : : Patagonia is a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament. Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer is claiming the domain name.. familiarity and using words
+------
+
+Prompt 6
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : does not serve the public interest.. Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names is not in our view, the Brazilian Ministry of Science and Technology said.. Rewrite the sentence: Allow private companies
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : . Keep the same meaning:. Rewrite the sentence:. Rewrite: Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela)..::
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : Patagonia.com. Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament......
+------
+
+Prompt 7
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : . Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve the public interest, the Brazilian Ministry of Science and Technology said.
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : reorder for clarity, split long clauses:.. Apply common simplification transformations (e.g., replace complex words, replace long sentences, split clauses) while keeping grammar and meaning: Reorder complex words for clarity: Reorder to keep meaning Reorder
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : while keeping meaning and grammar: Patagonia.com.. Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer,.. Argentinian officials have lodged a statement of their displeasure that the....
+------
+
+Prompt 8
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : . Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve the public interest, the Brazilian Ministry of Science and Technology said.  80 ( grade 6), without losing information:  (
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6).....     .   grade 5 
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED :  80 ( grade 6). Patagonia.com.. Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+------
+
+Prompt 9
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : . Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve the public interest, the Brazilian Ministry of Science and Technology said. Rewrite the sentence for ESL learners - use high-frequency words and avoid 
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : . Rewrite the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if necessary.).........:: Keep the meaning the same, but re
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : that Patagonia has registered a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament... Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer is claiming the domain name...
+------
+
+Prompt 10
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : does not serve the public interest. Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names is not in our view, the Brazilian Ministry of Science and Technology said.
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela). Simplify for readability, but preserve ALL factual details (entities, quantities, relations) exactly: ...
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : : Patagonia. Argentine has lodged an expression of its unhappiness that the US outdoor clothing retailer is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament... ...
+------
+
+Fine-Tune
+SRC  : Allowing private companies to register geographical names as gTLDs to reinforce their brand strategy or to profit from the meaning of these names does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+PRED : Allowing private companies to register geographical names as gTLDs does not serve, in our view, the public interest, the Brazilian Ministry of Science and Technology said.
+------
+SRC  : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+PRED : Brazil said its views were endorsed last month by other members of the Amazon Cooperation Treaty (Bolivia, Colombia, Ecuador, Guyana, Suriname and Venezuela).
+------
+SRC  : Argentina has lodged an expression of its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+PRED : Argentina has expressed its unhappiness that the US outdoor clothing retailer, Patagonia, is claiming a domain name that has been known far longer as a region of spectacular beauty that also has its own parliament.
+------

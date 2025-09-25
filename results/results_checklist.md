@@ -1,0 +1,10 @@
+# Models we used
+- [x] flan-T5-large → 783M (0,3)  
+- [x] T5-large → 738M (3,6)  
+- [x] Pegasus-large → 571M (6,9)  
+- [x] Pegasus-xsum → 570M (9,12)  
+- [x] Bart-large → 406M (12,15)  
+- [x] microsoft/prophetnet-large-uncased-cnndm → 391M (15,18)  
+- [x] flan-T5-base → 248M (18,21)  
+- [x] T5-base → 223M (21,24)  
+- [x] Bart-base → 139M (24,27)  

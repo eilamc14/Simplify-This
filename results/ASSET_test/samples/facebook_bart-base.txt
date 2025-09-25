@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 1
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 2
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The final decision was made after extensive deliberation. Complex:The ancient manuscript was
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The final decision was made after extensive deliberation. Complex: It was unanimous.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The final decision was made after extensive deliberation. The decision was unanimous. Complex
+------
+
+Prompt 3
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and wood
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 4
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia),
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 5
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia),
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 6
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 7
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 8
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and wood
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 9
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Prompt 10
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pe
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+------
+
+Fine-Tune
+SRC  : Nevertheless, Tagore emulated numerous styles, including craftwork from northern New Ireland, Haida carvings from the west coast of Canada (British Columbia), and woodcuts by Max Pechstein.
+PRED : Tagore emulated many styles , including craftwork from northern New Ireland , Haida carvings from the west coast of Canada (British Columbia ) and woodcuts by Max Pechstein .
+------
+SRC  : On October 14, 1960, Presidential candidate John F. Kennedy proposed the concept of what became the Peace Corps on the steps of Michigan Union.
+PRED : On October 14 , 1960 , Presidential candidate John F. Kennedy proposed the Peace Corps on the steps of Michigan Union .
+------
+SRC  : She performed for President Reagan in 1988's Great Performances at the White House series, which aired on the Public Broadcasting Service.
+PRED : She performed for President Reagan in 1988 's Great Performances at the White House series .
+------

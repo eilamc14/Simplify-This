@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : lymphocytopenia remits with removal of underlying factor or successful treatment of the underlying disorder.
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+------
+
+Prompt 1
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : False positive for FMF: splinting of the chest and pain in one or both shoulders . other manifestations include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving knee, ankle, and hip .
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : True
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : False
+------
+
+Prompt 2
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : complex: The ancient manuscript was preserved in a climate-controlled archive to prevent deterioration . simple: The group agreed after extensive deliberations .
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : True
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : True
+------
+
+Prompt 3
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : False
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : True
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : True
+------
+
+Prompt 4
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : splinting of the chest and pain in one or both shoulders may occur . scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis . pericarditis occurs very rarely.
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : False
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : False
+------
+
+Prompt 5
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : False
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : True
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : True
+------
+
+Prompt 6
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : False
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : False
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : False
+------
+
+Prompt 7
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : pericarditis occurs very rarely.
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : True
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : False
+------
+
+Prompt 8
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : False
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : True
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : True
+------
+
+Prompt 9
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : Use high-frequency words, avoid idioms, and add brief clarifications if needed.
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : Use high-frequency words, avoid idioms, and add brief clarifications if needed. for ESL learners - use high frequency words. lymphocytopenia usually remits with successful treatment of the underlying disorder.
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : Use high-frequency words, avoid idioms, and add brief clarifications if needed. for ESL learners - use high frequency words. Avoid idiomatic words. The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amy
+------
+
+Prompt 10
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : False
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : True
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : True
+------
+
+Fine-Tune
+SRC  : With diaphragmatic involvement, splinting of the chest and pain in one or both shoulders may occur. Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused by inflammation of the tunica vaginalis of the testis. Pericarditis occurs very rarely.
+PRED : Other manifestations of FMF include acute pleurisy (in 30 %); arthritis (in 25 %), usually involving the knee, ankle, and hip; an erysipelas - like rash of the lower leg; and scrotal swelling and pain caused
+------
+SRC  : In acquired lymphocytopenias, lymphocytopenia usually remits with removal of the underlying factor or successful treatment of the underlying disorder.
+PRED : In acquired lymphocytopenias, the disease usually remits with removal of the underlying factor or successful treatment of the disorder .
+------
+SRC  : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys.
+PRED : The most significant long- term complication of FMF is Chronic renal failure caused by deposition of amyloid protein in the kidneys .
+------

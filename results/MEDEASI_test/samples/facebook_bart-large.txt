@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+------
+
+Prompt 1
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or string
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+------
+
+Prompt 2
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Simplify the sentence. Use common words; keep the meaning.Complex: Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Simplify the sentence. Use common words; keep the meaning.Complex: Ankles, knees, elbows, and wrists are usually involved.The old book was kept in a special room to stop it from getting damaged. The word “knees” is not used.Com
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : Simplify the sentence. Use common words; keep the meaning.Complex: In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.The group agreed after talking for a long
+------
+
+Prompt 3
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases);
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor
+------
+
+Prompt 4
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of
+------
+
+Prompt 5
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of
+------
+
+Prompt 6
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema;
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+------
+
+Prompt 7
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the
+------
+
+Prompt 8
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases);
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor
+------
+
+Prompt 9
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrh
+------
+
+Prompt 10
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid ed
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles, knees, elbows, and wrists are usually involved.
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+------
+
+Fine-Tune
+SRC  : Patients with allergic conjunctivitis report having Bilateral mild to intense ocular itching; Conjunctival hyperemia; Photosensitivity (photophobia in severe cases); Eyelid edema; Watery or stringy discharge.
+PRED : People with allergic conjunctivitis report having Bilateral mild to intense ocular itching ; Conjunctival hyperemia ; Photosensitivity ; Eyelid edema ; Watery or stringy discharge .
+------
+SRC  : Ankles, knees, elbows, and wrists are usually involved.
+PRED : Ankles , knees , elbows , and wrists are usually involved .
+------
+SRC  : In a few patients, the first manifestation of hepatocellular carcinoma is bloody ascites, shock, or peritonitis, caused by hemorrhage of the tumor.
+PRED : In a few patients , the first manifestation of hepatocellular carcinoma is bloody ascites , shock , or peritonitis .
+------

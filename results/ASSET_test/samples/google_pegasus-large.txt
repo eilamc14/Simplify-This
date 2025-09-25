@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 1
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 2
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+
+Prompt 3
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 4
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : Keep all original information: They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Keep all original information: Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Keep all original information: Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 5
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : Preserve the original meaning: They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Preserve the original meaning: Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Preserve the original meaning: Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 6
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : Keep the same meaning: They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Keep the same meaning: Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Keep the same meaning: Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 7
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 8
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6), without losing information: They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6), without losing information: Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6), without losing information: Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 9
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : Keep the meaning the same: They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Keep the meaning the same: Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Keep the meaning the same: Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Prompt 10
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : They are culturally akin to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+------
+
+Fine-Tune
+SRC  : They are culturally akin to the coastal peoples of Papua New Guinea.
+PRED : They are similar to the coastal peoples of Papua New Guinea.
+------
+SRC  : Since 2000, the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+PRED : Since 2000 the recipient of the Kate Greenaway Medal has also been presented with the Colin Mears Award to the value of £5000.
+------
+SRC  : Following the drummers are dancers, who often play the sogo (a tiny drum that makes almost no sound) and tend to have more elaborate — even acrobatic — choreography.
+PRED : Following the drummers are dancers, who often play the sogo ( a tiny drum that makes almost no sound) and tend to have more elaborate choreography .
+------

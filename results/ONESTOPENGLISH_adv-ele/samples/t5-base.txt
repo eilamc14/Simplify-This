@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : tax havens hold $31 trillion, or as much as a third of all global wealth, says Tax Justice Network . closing them could yield $189bn in additional tax revenues, she says .
+------
+
+Prompt 1
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : False
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : False
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : False
+------
+
+Prompt 2
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : True
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : False
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : True
+------
+
+Prompt 3
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : False
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : True
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : False
+------
+
+Prompt 4
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : False
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : "tax havens" could yield $189bn in additional tax revenues, she says . a third of the world's wealth is held in such places, or as much as $31 trillion . closing them could yield more than $189 billion in tax revenues .
+------
+
+Prompt 5
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : False
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : Oxfam said world leaders should learn from countries such as Brazil .
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : False
+------
+
+Prompt 6
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : False
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : True
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : False
+------
+
+Prompt 7
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : True
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : False
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : True
+------
+
+Prompt 8
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : True
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : True
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : False
+------
+
+Prompt 9
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : Rewrite the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if needed . In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : rewrite the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if needed . closing tax havens, which hold as much as $31 trillion, could yield $189bn in additional tax revenues .
+------
+
+Prompt 10
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : True
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : Brazil has grown rapidly while reducing inequality
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : Tax Justice Network
+------
+
+Fine-Tune
+SRC  : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20%, the report says.
+PRED : In the US, the share of national income going to the top 1% has doubled since 1980 from 10 to 20% .
+------
+SRC  : Oxfam said world leaders should learn from countries such as Brazil, which has grown rapidly while reducing inequality.
+PRED : Oxfam said world leaders should learn from countries such as Brazil .
+------
+SRC  : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, or as much as a third of all global wealth, could yield $189bn in additional tax revenues.
+PRED : She said closing tax havens, which the Tax Justice Network says hold as much as $31 trillion, could yield $189bn in additional tax revenues .
+------

@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : carbocation intermediate is formed in the reaction's rate determining step. sp2 hybridized carbon with trigonal planar molecular geometry.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : simplify's continuous positive airway pressure ( cpap ). cpap is a measure of how much air is in your airway and how much it's worth to you.
+------
+
+Prompt 1
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : the carbocation intermediate is formed in the reaction's rate determining step. it is an sp2 hybridized carbon with trigonal planar molecular geometry.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : simplify the following sentence so it is easy to understand while keeping the original meaning : continuous positive airway pressure ( cpap ).
+------
+
+Prompt 2
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : the committee reached a unanimous decision after extensive deliberations. the ancient manuscript was preserved in a climate - controlled archive.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : ancient manuscript was preserved in a climate - controlled archive. simple : the old book was kept in a special room to stop it from getting damaged. complex : the economic downturn had a profound effect on small businesses.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : use common words ; keep the meaning. output only the simplified sentence.
+------
+
+Prompt 3
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : list the words / phrases that make this sentence hard to read. then rewrite the sentence in simpler language without changing its meaning.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : list the words / phrases that make this sentence hard to read. rewrite the sentence in simpler language without changing its meaning.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : the continuous positive airway pressure ( cpap ) sentence is hard to read.
+------
+
+Prompt 4
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : rewrite the sentence using common, high - frequency words suitable for a b1 ( intermediate ) non - native reader.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : rewrite the sentence using common, high - frequency words suitable for a b1 ( intermediate ) non - native reader.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : use common, high - frequency words suitable for a b1 ( intermediate ) non - native reader. continuous positive airway pressure ( cpap ).
+------
+
+Prompt 5
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : rewrite the sentence using words with high familiarity and early age - of - acquisition. the carbocation intermediate is formed in the reaction's rate determining step.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism. they also involve more general functions, such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : use words with high familiarity and early age - of - acquisition to rewrite the sentence. the original meaning is continuous positive airway pressure ( cpap ).
+------
+
+Prompt 6
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : rewrite the sentence in simpler words and split long or embedded clauses into shorter sentences. the carbocation intermediate is formed in the reaction's rate determining step.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : rewrite the sentence in simpler words and split long or embedded clauses into shorter sentences. keep the same meaning : physiological adaptations permit the organism to perform special functions such as making venom.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : keep the meaning : continuous positive airway pressure ( cpap ). rewrite the sentence in simpler words and split long or embedded clauses into shorter sentences.
+------
+
+Prompt 7
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : the carbocation intermediate is formed in the reaction's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : apply common simplification transformations to keep grammar and meaning. cpap is continuous positive airway pressure ( cpap ).
+------
+
+Prompt 8
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : rewrite the sentence so that it reaches a flesch reading ease score stockport. the carbocation intermediate is formed in the reaction's rate determining step is an sp2 hybridized carbon.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : rewrite the sentence so that it reaches a flesch reading ease score ћ 80 ( ћ grade 6 ).
+------
+
+Prompt 9
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : the carbocation intermediate is formed in the reaction's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : use high - frequency words, avoid idioms, and add brief clarifications if needed. physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : use high - frequency words, avoid idioms, and add brief clarifications if needed. keep the meaning the same : continuous positive airway pressure ( cpap ).
+------
+
+Prompt 10
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : simplify the sentence for readability, but preserve all factual details ( entities, quantities, relations ) exactly. the carbocation intermediate is formed in the reaction's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : simplify the sentence for readability, but preserve all factual details ( entities, quantities, relations ) exactly : continuous positive airway pressure ( cpap ).
+------
+
+Fine-Tune
+SRC  : The carbocation intermediate is formed in the reaction 's rate determining step is an sp2 hybridized carbon with trigonal planar molecular geometry.
+PRED : the carbocation intermediate is formed in the reaction's rate determining step is an sp2 carbon with trigonal planar molecular geometry.
+------
+SRC  : Physiological adaptations permit the organism to perform special functions such as making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation, ionic balance and other aspects of homeostasis.
+PRED : these include making venom, secreting slime, and phototropism ), but also involve more general functions such as growth and development, temperature regulation and other aspects of homeostasis.
+------
+SRC  : Continuous positive airway pressure (CPAP).
+PRED : this is continuous positive airway pressure ( cpap ).
+------

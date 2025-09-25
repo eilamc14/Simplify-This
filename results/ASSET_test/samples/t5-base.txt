@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : : Fives is a British sport believed to derive from the same origins as many racquet sports.
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+------
+
+Prompt 1
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : False
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+------
+
+Prompt 2
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : True
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : True
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : True
+------
+
+Prompt 3
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : True
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : False
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : False
+------
+
+Prompt 4
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : False
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+------
+
+Prompt 5
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : False
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : use familiar terms with high familiarity and early age-of-acquisition (avoid abstract or rare terms). Preserve the original meaning: For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+------
+
+Prompt 6
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : False
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : False
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : False
+------
+
+Prompt 7
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : True
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : True
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : False
+------
+
+Prompt 8
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : True
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : True
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : False
+------
+
+Prompt 9
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : use high-frequency words, avoid idioms, and add brief clarifications if needed. Rewrite the sentence for ESL learners - use high frequency words.
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : Rewrite the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if needed. For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if needed. Keep the meaning the same: Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+------
+
+Prompt 10
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : False
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : King Bhumibol was born on Monday, so on his birthday Thailand will be decorated with yellow color.
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : The National Museum of Scotland
+------
+
+Fine-Tune
+SRC  : Fives is a British sport believed to derive from the same origins as many racquet sports.
+PRED : Fives is a British sport believed to have the same origins as many racquet sports .
+------
+SRC  : For example, King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color.
+PRED : King Bhumibol was born on Monday, so on his birthday throughout Thailand will be decorated with yellow color .
+------
+SRC  : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+PRED : Both names became defunct in 2007 when they were merged into The National Museum of Scotland.
+------

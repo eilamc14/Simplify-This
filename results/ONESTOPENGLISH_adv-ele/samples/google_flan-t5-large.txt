@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now, the differences between commercial, governmental and other types of identity were easily distinguished by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains, including .shop, .book and .kindle.
+------
+
+Prompt 1
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now, the differences between commercial, government and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains, including .shop , .song , book and .kindle.
+------
+
+Prompt 2
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Before now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains.
+------
+
+Prompt 3
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now, the differences between commercial, governmental and other types of identity were easily distinguished by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains, including .shop, .book and .kindle.
+------
+
+Prompt 4
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : The differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains.
+------
+
+Prompt 5
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains.
+------
+
+Prompt 6
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now, differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains, including .shop , .song , book and .kindle.
+------
+
+Prompt 7
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains, including .shop, .song, book and .kindle.
+------
+
+Prompt 8
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains, including .shop, .song, and .book.
+------
+
+Prompt 9
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains.
+------
+
+Prompt 10
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : The differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains, including .shop, .book and .kindle.
+------
+
+Fine-Tune
+SRC  : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com), but the South American governments argue this would prevent the use of this internet address for environmental protection, the promotion of indigenous rights and other public interest uses.
+PRED : The Seattle-based company has applied for its brand to be a top-level domain name (currently .com) , but the South American governments argue this would prevent the use of this internet address for environmental protection .
+------
+SRC  : Until now, the differences between commercial, governmental and other types of identity were easily distinguished in every internet address by .com, .gov and 20 other categories.
+PRED : Until now , the differences between commercial , governmental and other types of identity were easily distinguished in every internet address by .com .gov .
+------
+SRC  : Amazon has applied for dozens of new domains, including .shop, .song, .book and .kindle.
+PRED : Amazon has applied for dozens of new domains , including .shop , .song and .kindle .
+------

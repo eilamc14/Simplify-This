@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the world's poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : China's top 10% now take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : China is now the most unequal country on Earth and significantly more unequal than at the end of apartheid
+------
+
+Prompt 1
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the world's poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% now take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 2
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 3
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 4
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the world's poorest could be lifted out of poverty if the richest 100 billionaires gave away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 5
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the worlds poorest could be lifted out of poverty if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% now take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 6
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the world's poorest could be lifted out of poverty if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 7
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% now take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 8
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the world's poorest could be lifted out of poverty several times over if the richest 100 billionaires gave away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 9
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the world's poorest could be lifted out of poverty if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Prompt 10
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China, the top 10% now take home nearly 60% of the income.
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+------
+
+Fine-Tune
+SRC  : Oxfam said the worlds poorest could be lifted out of poverty several times over if the richest 100 billionaires would give away the money they made in 2012.
+PRED : Oxfam said the worlds poorest could be lifted out of poverty if the richest 100 billionaires would give away the money they made in 2012 .
+------
+SRC  : In China, the top 10% now take home nearly 60% of the income.
+PRED : In China , the top 10% now take home nearly 60% of the income .
+------
+SRC  : Chinese inequality levels are now similar to those in South Africa, which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid.
+PRED : Chinese inequality levels are now similar to those in South Africa , which is now the most unequal country on Earth and significantly more unequal than at the end of apartheid .
+------

@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 1
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 2
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The final decision was made after extensive deliberation. Complex:The ancient manuscript was
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The final decision was made after extensive deliberation. _________________________________________Complex.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The final decision was made after extensive deliberation. The committee concluded after deliberating for
+------
+
+Prompt 3
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 4
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 5
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 6
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 7
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 8
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 9
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Prompt 10
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+------
+
+Fine-Tune
+SRC  : In this notation, the DA reaction and the dipolar reaction both become a [ 4+2 ] cycloaddition.
+PRED : In this notation , the DA reaction and the dipolar reaction both become a cycloaddition .
+------
+SRC  : Intubation and CPAP are indicated for respiratory distress, followed by mechanical ventilation and admission to the neonatal ICU as needed.
+PRED : Intubation and CPAP are indicated for respiratory distress , followed by mechanical ventilation and admission to the neonatal ICU .
+------
+SRC  : Lady Burdett-Coutts died of acute bronchitis at her home on Stratton Street, Piccadilly.
+PRED : Lady Burdett-Coutts died of acute bronchitis at her home in Piccadilly .
+------

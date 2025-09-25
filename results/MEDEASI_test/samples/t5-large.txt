@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Desmopressin
+PRED : Simplify:
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : Some patients have weight loss, rarely enough to become underweight.., but not enough to be considered overweight. Simplifying: Some people have weight gain, rarely too much.... loss. loss.. or to become
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : . Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, or strokes.. and subclavian arteries.
+------
+
+Prompt 1
+SRC  : Desmopressin
+PRED : Simplify the following sentence so the original meaning is easy to understand: is an antidepressant. is a depressant drug. is an anxiolytic drug. is an antacid.:.:...
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : and aphthous ulcers. Some patients have weight loss, rarely enough to become underweight.. Weight loss is rare. Anemia, glossitis, and angular stomatitis are usually seen in these patients..::
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope. Syncope occurs when the arm is used (called subclavian steal syndrome).... Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, headaches, ortho
+------
+
+Prompt 2
+SRC  : Desmopressin
+PRED : The economic downturn affected many small businesses across the region. Complex: The bad economy hurt small businesses in the area. Desmopressin Complex:: Complex: Complex: Complex:The sentence is simplified. Use common words. Keep the meaning. Output only the simplified sentence.
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : . Complex: Some patients have weight loss, rarely enough to become underweight. The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time.: Weight loss is rarely seen in these patients. The sentence is complex. Use common words
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome). Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. Simplify the sentence. Use common words; keep the meaning. Output only
+------
+
+Prompt 3
+SRC  : Desmopressin
+PRED : makes this sentence hard to read. is an antidepressant. is a depressant drug. is an antacid drug. First list the words/phrases that make this sentence difficult to read without changing its meaning. Then rewrite the sentence in simpler language without
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : . Some patients have weight loss, rarely enough to become underweight... Anemia, glossitis, and aphthous ulcers are usually seen in these patients... make this sentence hard to read../phrases that make this
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome). Syncope is a common ischemic neurologic symptom. It is also called syncopal steal syndrome.. This is called. This can be a result of stenotic lesions.
+------
+
+Prompt 4
+SRC  : Desmopressin
+PRED : : Desmopressin::: is a drug used to treat depression.:: Rewrite the sentence using common, high-frequency words suitable for a B1 (intermediate) non-native reader. Keep all original information:..
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : . Some patients have weight loss, rarely enough to become underweight... Weight loss is usually seen in these patients. Rewrite the sentence using common, high-frequency words suitable for a B1 (intermediate) non-native reader: Rewrite:
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome). Syncope is a common ischemic neurologic symptom. Stenotic lesions in a vertebral artery can cause posterior circulation neurologic symptoms. Rewrite the sentence: Rephrase the sentence
+------
+
+Prompt 5
+SRC  : Desmopressin
+PRED : .... Rewrite the sentence using words with high familiarity-acquisition (avoid abstract or rare terms). Preserve the original meaning: Desmopressin.. the sentence the sentence: the sentence: the sentence using words of high familiar
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : or Rewrite the sentence using words with high familiarity and early age-acquisition: Some patients have weight loss, rarely enough to become underweight.. Preserve the original meaning: Weight loss is rarely seen in these patients.::: the sentence: using words
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome). Rewrite the sentence: Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, headaches, orthostatic hypotension, or stroke
+------
+
+Prompt 6
+SRC  : Desmopressin
+PRED : is an antidepressant drug. is used to treat depression. is a depressant medication. is used in the treatment of depression. Rewrite the sentence: Desmopressin is the name of the drug. is the drug:..::
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : and Rewrite the sentence: Some patients have weight loss, rarely enough to become underweight.. Some patients are underweight, rarely sufficient to become overweight..: Keep the same meaning:::: into shorter ones.: Rewrite sentence.
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome). Syncope is a common symptom of ischemic stroke and can be caused by stenotic lesions in the aorta. Rewrite the sentence in simpler words and split long or embedded clause
+------
+
+Prompt 7
+SRC  : Desmopressin
+PRED : :.... Reorder complex words for clarity, reorder complex clauses. Apply common simplification transformations: Desmopressin. Reorder for clarity. Apply simplification to complex sentences: Reorder sentences for clarity: rewrite,
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : stomatitis, and aphthous ulcers... Apply common simplification transformations (e.g., replace complex words, reorder for clarity, split long clauses) while keeping grammar and meaning:. simplify for clarity.
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome)... Reorder complex words for clarity, split long clauses for clarity. Apply common simplification transformations (e.g., replace complex words) while keeping grammar and meaning:. to
+------
+
+Prompt 8
+SRC  : Desmopressin
+PRED : score  80 ( grade 6):::: Desmopressin is a drug used to treat depression.:  70 ( Grade 6).:::    grade 6  
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : or aphthous ulcers. Some patients have weight loss, rarely enough to become underweight. Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6) without losing information:...
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome). Rewrite the sentence so that it reaches a Flesch Reading Ease score of  80 ( grade 6). score  70 () (,  grade
+------
+
+Prompt 9
+SRC  : Desmopressin
+PRED : .... Desmopressin is a drug used to treat depression.... the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if necessary....
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : and aphthous ulcers. Some patients have weight loss, rarely enough to become underweight. Rewrite the sentence for ESL learners - use high-frequency words, avoid idioms, and add brief clarifications if necessary. and -.
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome). Stenotic lesions in the vertebral artery can cause posterior circulation ischemic neurologic symptoms such as dizziness, headaches, or stroke. Rewrite the sentence for ESL learners: Rewrite
+------
+
+Prompt 10
+SRC  : Desmopressin
+PRED : = Desmopressin. = = a drug. = an antidepressant.  = an antibiotic., but preserve ALL factual details::: ALL facts:: details for clarity:::::
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : , and aphthous ulcers are usually seen in these patients... Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and. but retain ALL factual details:
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : or syncope when the arm is used (called subclavian steal syndrome). Syncope:. Simplify the sentence for readability, but preserve ALL factual details exactly:..: but preserve all facts exactly:: all, quantities, relations
+------
+
+Fine-Tune
+SRC  : Desmopressin
+PRED : Desmopressin
+------
+SRC  : Some patients have weight loss, rarely enough to become underweight. Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+PRED : Anemia, glossitis, angular stomatitis, and aphthous ulcers are usually seen in these patients.
+------
+SRC  : Involvement of the carotid and vertebral arteries results in reduced cerebral blood flow manifested by dizziness, syncope, orthostatic hypotension, headaches, transient visual disturbances, transient ischemic attacks, or strokes. Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavian steal syndrome).
+PRED : Stenotic lesions in a subclavian artery near the origin of a patent vertebral artery can cause posterior circulation ischemic neurologic symptoms or syncope when the arm is used (called subclavean steal syndrome) .
+------

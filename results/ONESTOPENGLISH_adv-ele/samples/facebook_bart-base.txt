@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+------
+
+Prompt 1
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+------
+
+Prompt 2
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The final decision was made after extensive deliberation. The decision was unanimous. Complex
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The decision was unanimous. The final decision was made after extensive deliberation. The committee
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : Simplify the sentence. Use common words; keep the meaning. Output only the simplified sentence.Complex: The committee reached a unanimous decision after extensive deliberations.The group agreed after talking for a long time. The decision was unanimous. The committee agreed after extensive deliberation. Complex:The
+------
+
+Prompt 3
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+------
+
+Prompt 4
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology
+------
+
+Prompt 5
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology
+------
+
+Prompt 6
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+------
+
+Prompt 7
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+------
+
+Prompt 8
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+------
+
+Prompt 9
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case,
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs
+------
+
+Prompt 10
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+------
+
+Fine-Tune
+SRC  : Back in 2005, when BlackBerry brought instant messaging to the mobile phone, the company was just entering its boom times.
+PRED : Back in 2005 , the company brought instant messaging to the mobile phone .
+------
+SRC  : Free to download and use, they use the internet to swap text messages, pictures, voice clips, stickers, and even videos in WhatsApps case, between most types of phones.
+PRED : Free to download and use , they use the internet to swapped text messages , pictures , voice clips , stickers , and even videos between most types of phones .
+------
+SRC  : The move to bring BlackBerry to the iPhone is four or five years too late, says James Gooderson, an 18-year-old student who blogs on technology.
+PRED : The move to bringoggle to the iPhone is four or five years too late , says James Gooderson , an 18-year-old student who blogs on technology .
+------

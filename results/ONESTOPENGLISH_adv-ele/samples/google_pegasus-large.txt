@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 1
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 2
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : Complex: The economic downturn had a profound effect on small businesses across the region.
+------
+
+Prompt 3
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : Then rewrite the sentence in simpler language without changing its meaning: But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 4
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Keep all original information: Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Keep all original information: Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : Keep all original information: But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 5
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Preserve the original meaning: Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Preserve the original meaning: Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : Preserve the original meaning: But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 6
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Keep the same meaning: Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Keep the same meaning: Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : Keep the same meaning: But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 7
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 8
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6), without losing information: Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6), without losing information: Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : Rewrite the sentence so that it reaches a Flesch Reading Ease score  80 ( grade 6), without losing information: But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 9
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Keep the meaning the same: Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Keep the meaning the same: Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : Keep the meaning the same: But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Prompt 10
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------
+
+Fine-Tune
+SRC  : Argentina rejects the .patagonia request for a new generic top-level domain, the government notes in an appeal.
+PRED : Argentina rejects the .patagonia request for a new generic top-level domain.
+------
+SRC  : Patagonia is a relevant region for the countrys economy because it has oil, fishing, mining and agriculture resources.
+PRED : It has oil, fishing, mining and agriculture resources.
+------
+SRC  : But Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+PRED : Bartho Boer, a spokesman for the Mayor, denies that the plans are illiberal.
+------

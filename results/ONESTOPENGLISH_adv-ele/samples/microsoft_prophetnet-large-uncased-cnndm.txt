@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : white workers in brazil. white workers earn.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : maycon de mattos batista worked with anitta while she was an intern. she said there had been a huge change in her image, but not her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : it's more the way they are producing her with makeup, hairstylists and the way she dresses.
+------
+
+Prompt 1
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : in brazilian cities, white workers earn roughly twice as much as those of african descent.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : financial analyst maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not of her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : simplify the following sentence so it is easy to understand.
+------
+
+Prompt 2
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : the ancient manuscript was preserved in a climate - controlled archive. complex : the economic downturn had a profound effect on small businesses.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : ancient manuscript was preserved in a climate - controlled archive. economic downturn had a profound effect on small businesses.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : the ancient manuscript was preserved in a climate - controlled archive. the economic downturn had a profound effect on small businesses.
+------
+
+Prompt 3
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : first list the words / phrases that make this sentence hard to read. then rewrite the sentence in simpler language without changing its meaning.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : financial analyst maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : first list the words / phrases that make this sentence hard to read. rewrite the sentence in simpler language without changing its meaning.
+------
+
+Prompt 4
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : in brazilian cities, white workers earn roughly twice as much as those of african descent.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : financial analyst maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : rewrite the sentence using common, high - frequency words suitable for a b1 ( intermediate ) non - native reader.
+------
+
+Prompt 5
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : in brazilian cities, white workers earn roughly twice as much as those of african descent. rewrite the sentence using words with high familiarity and early age - of - acquisition.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : financial analyst maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : rewrite the sentence using words with high familiarity and early age - of - acquisition ( avoid abstract or rare terms ).
+------
+
+Prompt 6
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : in brazilian cities, white workers earn roughly twice as much as those of african descent. rewrite the sentence in simpler words and split long or embedded clauses into shorter sentences.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : financial analyst maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not of her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : rewrite the sentence in simpler words and split long or embedded clauses into shorter sentences. keep the same meaning : i don't believe it whitening. it's more the way they are producing her with makeup, hairstylists and the way she dresses.
+------
+
+Prompt 7
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : in brazilian cities, white workers earn roughly twice as much as those of african descent. replace complex words, reorder for clarity, split long clauses.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not of her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : use common simplification transformations while keeping grammar and meaning. replace complex words, reorder for clarity, split long clauses.
+------
+
+Prompt 8
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : in brazilian cities, white workers earn roughly twice as much as those of african descent.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : financial analyst maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : rewrite the sentence so that it reaches a flesch reading ease score у 80 ( ћ grade 6 ). rewrite it so that you reach a flech reading eased score ћ ( ћ ).
+------
+
+Prompt 9
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : use high - frequency words, avoid idioms, and add brief clarifications if needed. in brazilian cities, white workers earn roughly twice as much as those of african descent.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : financial analyst maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not of her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : rewrite the sentence for esl learners - use high - frequency words, avoid idioms, and add brief clarifications if needed.
+------
+
+Prompt 10
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : in brazilian cities, white workers earn roughly twice as much as those of african descent. simplify the sentence for readability, but preserve all factual details.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : financial analyst maycon de mattos batista worked with anitta as an intern. she said there had been a huge change in her image, but not of her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : simplify the sentence for readability, but preserve all factual details ( entities, quantities, relations ). it's more the way they are producing her with makeup, hairstylists and the way she dresses.
+------
+
+Fine-Tune
+SRC  : In Brazilian cities, white workers earn roughly twice as much as those of African descent.
+PRED : in brazilian cities, white workers earn about twice as much as those of african descent.
+------
+SRC  : Maycon de Mattos Batista, a financial analyst who worked with Anitta while she was an intern, said there had been a huge change in Anittas image, but not of her colour.
+PRED : a financial analyst who worked with anitta while she was an intern, said there had been a huge change in her image, but not of her colour.
+------
+SRC  : I dont believe its whitening; its more the way they are producing her with makeup, hairstylists and the way she dresses, he said.
+PRED : i dont believe its whitening ; its more the way they are producing her with makeup, hairstylists and the way she dresses.
+------

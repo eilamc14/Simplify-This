@@ -1,0 +1,131 @@
+Prompt 0
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : the the.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure, dextromethorphan. it's a.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : admission to admission. admission to. admissions to the....
+------
+
+Prompt 1
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : in 1987 wexler was inducted into the rock and roll hall of fame.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : admission to tsinghua is extremely competitive. simplify the following sentence so it is easy to understand.
+------
+
+Prompt 2
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : wexler was inducted into the rock and roll hall of fame in 1987. the ancient manuscript was preserved in a climate - controlled archive.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder. use common words ; keep the meaning. output only the simplified sentence.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : the ancient manuscript was preserved in a climate - controlled archive. the economic downturn had a profound effect on small businesses.
+------
+
+Prompt 3
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : list the words / phrases that make this sentence hard to read. rewrite the sentence in simpler language without changing its meaning. in 1987 wexler was inducted into the rock and roll hall of fame.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder. rewrite the sentence in simpler language without changing its meaning.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : first list the words / phrases that make this sentence hard to read. then rewrite the sentence in simpler language without changing its meaning.
+------
+
+Prompt 4
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : in 1987 wexler was inducted into the rock and roll hall of fame. rewrite the sentence using common, high - frequency words suitable for a b1 ( intermediate ) reader.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder. use common, high - frequency words suitable for a b1 ( intermediate ) reader.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : rewrite the sentence using common, high - frequency words suitable for a b1 ( intermediate ) non - native reader. admission to tsinghua is extremely competitive.
+------
+
+Prompt 5
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : in 1987 wexler was inducted into the rock and roll hall of fame. rewrite the sentence using words with high familiarity and early age - of - acquisition.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder. rewrite the sentence using words with high familiarity and early age - of - acquisition.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : rewrite the sentence using words with high familiarity and early age - of - acquisition. the original meaning : admission to tsinghua is extremely competitive.
+------
+
+Prompt 6
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : in 1987 wexler was inducted into the rock and roll hall of fame.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : rewrite the sentence in simpler words and split long or embedded clauses into shorter sentences. keep the meaning : admission to tsinghua is extremely competitive.
+------
+
+Prompt 7
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : in 1987 wexler was inducted into the rock and roll hall of fame.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : apply common simplification transformations to your grammar. replace complex words, reorder for clarity, split long clauses. admission to tsinghua is extremely competitive.
+------
+
+Prompt 8
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : in 1987 wexler was inducted into the rock and roll hall of fame.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : rewrite the sentence so that it reaches a flesch reading ease score ћ 80 ( ћ grade 6 ). admission to tsinghua is extremely competitive.
+------
+
+Prompt 9
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : use high - frequency words, avoid idioms, and add brief clarifications if needed. in 1987 wexler was inducted into the rock and roll hall of fame.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder. use high - frequency words, avoid idioms, and add brief clarifications if needed.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : use high - frequency words, avoid idioms, and add brief clarifications if needed. keep the meaning the same : admission to tsinghua is extremely competitive.
+------
+
+Prompt 10
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : in 1987 wexler was inducted into the rock and roll hall of fame. simplify the sentence for readability, but preserve all factual details ( entities, quantities, relations ).
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : in its pure form, dextromethorphan occurs as a white powder. simplify the sentence for readability, but preserve all factual details.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : simplify the sentence for readability, but preserve all factual details ( entities, quantities, relations ) exactly : admission to tsinghua is extremely competitive.
+------
+
+Fine-Tune
+SRC  : In 1987 Wexler was inducted into the Rock and Roll Hall of Fame.
+PRED : he was inducted into the rock and roll hall of fame in 1987.
+------
+SRC  : In its pure form, dextromethorphan occurs as a white powder.
+PRED : its chemical formula is dextromethorphan.
+------
+SRC  : Admission to Tsinghua is extremely competitive.
+PRED : its admission to tsinghua is extremely competitive.
+------
