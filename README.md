@@ -26,6 +26,7 @@ Simplify-This/
 │  │     └─ <model_name>.txt                 # 3 samples per prompt
 │  └─ results_checklist.md
 ├─ dataset_cleaning.ipynb
+├─ dataset_compare.ipynb
 ├─ text_simplification_finetune.ipynb
 ├─ prompt_evaluation.ipynb
 └─ Eval_full.ipynb
@@ -40,7 +41,8 @@ Simplify-This/
   - `results_checklist.md` - checklist of models evaluated.  
   - `samples/` - 3 text samples per prompt per model for human evaluation.
 - Notebooks:  
-  - `dataset_cleaning.ipynb` - dataset preprocessing & cleaning.  
+  - `dataset_cleaning.ipynb` - dataset preprocessing & cleaning.
+   - `dataset_compare.ipynb` – compare WikiLarge to Wikilarge-Clean (statistics, metrics, filtering, etc.)
   - `text_simplification_finetune.ipynb` - fine-tuning seq2seq models.  
   - `prompt_evaluation.ipynb` - prompt playground for non-finetuned models.  
   - `Eval_full.ipynb` - full evaluation pipeline: loads models (pretrained + fine-tuned), datasets, prompts, computes metrics, and saves results. Does one model at the time.
