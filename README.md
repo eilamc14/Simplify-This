@@ -102,7 +102,7 @@ Simplify-This/
 
 ## Paper
 
-[Simplify-This: A Comparative Analysis of Prompt-Based and Fine-Tuned LLMs](#) *(to be added)*
+[Simplify-This: A Comparative Analysis of Prompt-Based and Fine-Tuned LLMs](Simplify-This_2025.pdf)
 
 ---
 
@@ -116,10 +116,11 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ```
 @misc{simplifythis2025,
-  author       = {Simplify-This Team},
+  author       = {Cohen, Eilam and others},
   title        = {Simplify-This: A Comparative Analysis of Prompt-Based and Fine-Tuned LLMs},
   year         = {2025},
-  howpublished = {GitHub repository},
-  url          = {https://github.com/eilamc14/Simplify-This}
+  howpublished = {\url{https://github.com/eilamc14/Simplify-This}},
+  note         = {GitHub repository},
+  urldate      = {2025-09-30} 
 }
 ```
