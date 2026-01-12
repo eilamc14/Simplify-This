@@ -102,6 +102,7 @@ Simplify-This/
 
 ## Paper
 [https://arxiv.org/abs/2601.05794](arxiv)
+
 [Simplify-This: A Comparative Analysis of Prompt-Based and Fine-Tuned LLMs](Simplify-This_2025.pdf)
 
 ---
